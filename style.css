@@ -1,0 +1,8 @@
+:root {
+  --fontfamily-montserrat: "Montserrat", sans-serif;
+  --navy: #252b42;
+}
+
+.haruka-wrap {
+  font-family: var(--fontfamily-montserrat);
+}
