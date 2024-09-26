@@ -3,6 +3,16 @@
   --navy: #252b42;
 }
 
+* {
+  box-sizing: border-box;
+}
 .haruka-wrap {
   font-family: var(--fontfamily-montserrat);
+}
+
+.new {
+  border-radius: 50%;
+  background-color: orange;
+  width: 90px;
+  height: 90px;
 }
